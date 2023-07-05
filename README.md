@@ -100,8 +100,8 @@ I love participating in coding challenges and contributing to online coding plat
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prajjwalchauhan_09/practice) - See my solutions to various coding problems!
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/prajjwalchauhan_09?ext=heatmap)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajjwal-Chauhan&show_icons=true&theme=transparent&hide_border=true&width=1000)
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prajjwalchauhan_09&theme=Dark&width=1000)](https://github.com/JeremyTsaii/leetcode-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajjwal-Chauhan&show_icons=true&theme=transparent&hide_border=true&width=500)
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prajjwalchauhan_09&theme=Dark&width=500)](https://leetcode.com/prajjwalchauhan_09/)
 <!--![](https://leetcard.jacoblin.cool/prajjwalchauhan_09?width=1000&height=height/3&border=0&radius=20&ext=contest)-->
 <!-- - [LinkedIn](https://www.linkedin.com/in/[YourUsername]/) - Connect with me professionally and let's expand our network! -->
 
