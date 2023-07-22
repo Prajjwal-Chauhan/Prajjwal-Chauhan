@@ -84,11 +84,14 @@ Here are a few notable projects I've worked on:
 2. **[Ping_Pong_Game](https://github.com/Prajjwal-Chauhan/Ping-Pong_Game)**
 Ping Pong Game is a Single player classic arcade game implemented in JavaScript using the HTML5 element. It provides a fun and interactive experience where you can play against the computer.
 
-2. **[Wordle_Game_Clone](https://github.com/Prajjwal-Chauhan/Wordle-Clone)**
+3. **[Wordle_Game_Clone](https://github.com/Prajjwal-Chauhan/Wordle-Clone)**
 This repository contains a fun and interactive Wordle game clone built using HTML, CSS, and JavaScript. The game challenges players to guess a hidden five-letter word by making consecutive guesses and receiving feedback on their progress.
-<!--3. **[Project Name]** - [Brief description of the project and its objectives.]
 
-Feel free to explore more details about my projects on my [portfolio website](https://www.yourportfolio.com).-->
+4. **[Sentisonics: Your Emotion-Driven Spotify Player](https://github.com/Prajjwal-Chauhan/Sentisonics_Your-Emotion-Driven-Spotify-Player)**
+Sentisonics is a powerful project that uses the magic of computer vision and deep learning to detect your emotions in real-time using your device camera. With seven mood categories including 😡 angry, 😢 sad, 😖 disgust, 😄 happy, 😨 fear, 😲 surprise, and 😐 neutral, we'll curate the perfect Spotify playlists that match your every emotion!
+<!--3. **[Project Name]** - [Brief description of the project and its objectives.]-->
+
+Feel free to explore more details about my projects on my [portfolio website](https://prajjwal-chauhan.github.io/PrajjwalChauhan_portfolio/).
 
 
 ## 💻 Coding Profiles and Stats
