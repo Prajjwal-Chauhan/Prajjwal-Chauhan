@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 😄 Utilizing my skills in Java and JavaScript, I enjoy creating engaging and interactive gaming experiences.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prajjwal-Chauhan&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajjwal-Chauhan&theme=github-compact&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Prajjwal-Chauhan/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajjwal-Chauhan&theme=github-compact&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Prajjwal-Chauhan/github-readme-activity-graph)-->
 
 ## 💻 Skills   
 <!--[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,git,java,mysql,r,mongodb,py,nodejs)](https://skills.thijs.gg)-->
